@@ -7,7 +7,7 @@ This project aims to digitize the physical card, utilizing modern smartphone NFC
 
 Physical cards are easily lost, forgotten, or damaged. Replacing them costs time and money.
 
-Since almost every student and staff member carries a smartphone with an NFC chip, we can integrations with Host Card Emulation to securely mirror the physical card's credentials on a mobile device.
+Since almost every student and staff member carries a smartphone with an NFC chip, we can use integrations with Host Card Emulation to securely mirror the physical card's credentials on a mobile device.
 
 ## Features (Planned)
 *   **Smartphone NFC Emulation:** Use your phone to tap into buildings, the library, and parking facilities.
@@ -19,3 +19,8 @@ Since almost every student and staff member carries a smartphone with an NFC chi
 *   **Frontend / Mobile App:** Android (Java)
 *   **Backend / API:** Java (JDK 17+) / javax.smartcardio
 *   **Mock Database:** JSON
+
+## Roles
+* Nihar - Android Client 
+* Taha - Backend & Business Logic 
+* Waleed - Hardware & Protocol 
